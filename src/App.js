@@ -18,6 +18,13 @@ function App() {
           Learn React
         </a>
       </header>
+      <main>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt recusandae illum magni laborum dolorum ratione, pariatur amet deleniti accusantium similique eveniet architecto perferendis illo corporis ducimus molestiae vero quas veniam.
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt recusandae illum magni laborum dolorum ratione, pariatur amet deleniti accusantium similique eveniet architecto perferendis illo corporis ducimus molestiae vero quas veniam.
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt recusandae illum magni laborum dolorum ratione, pariatur amet deleniti accusantium similique eveniet architecto perferendis illo corporis ducimus molestiae vero quas veniam.
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt recusandae illum magni laborum dolorum ratione, pariatur amet deleniti accusantium similique eveniet architecto perferendis illo corporis ducimus molestiae vero quas veniam.
+      </main>
+      <footer>Кто разработал?</footer>
     </div>
   );
 }
